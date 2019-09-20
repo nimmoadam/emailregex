@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "automerge": true,
+  "major": {
+    "automerge": false
+  },
+  "reviewers": "siqnirmal",
+  "timezone": "Europe/Berlin",
+  "schedule": "before 5am every weekday",
+  "packageRules": [
+    {
+      "packageNames": ["commitlint"],
+      "packagePatterns": ["^@commitlint/"],
+      "groupName": "commitlint grp"
+    }
+  ]
+}
