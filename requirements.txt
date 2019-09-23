@@ -4,7 +4,7 @@ MarkupSafe==0.23
 Werkzeug==0.9.6
 gnureadline==6.3.3
 itsdangerous==0.24
-rauth==0.7.0
+rauth==0.7.3
 requests==2.3.0
 wsgiref==0.1.2
 
