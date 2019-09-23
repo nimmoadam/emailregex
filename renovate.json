@@ -6,7 +6,7 @@
   "major": {
     "automerge": false
   },
-  "reviewers": ["siqnirmal"],
+  "reviewers": ["nimmoadam"],
   "timezone": "Europe/Berlin",
   "schedule": "before 5am every weekday",
   "packageRules": [
