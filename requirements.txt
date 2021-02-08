@@ -9,4 +9,4 @@ requests==2.3.0
 wsgiref==0.1.2
 
 gunicorn==17.0
-Flask-SSLify==0.1.4
+Flask-SSLify==0.1.5
